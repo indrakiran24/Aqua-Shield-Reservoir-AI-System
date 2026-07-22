@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Generated reports
+data/*.pdf
+data/*.png
+
+# OS files
+.DS_Store
+Thumbs.db
